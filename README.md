@@ -5,6 +5,6 @@
 ***
 ## Assignments
 
-hw0
+[hw0](https://youtu.be/80zXG5er8kI)
 
 hw01
