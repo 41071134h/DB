@@ -8,4 +8,4 @@
 ### hw0 [https://youtu.be/80zXG5er8kI](https://youtu.be/80zXG5er8kI)
 
 ### hw01
-
+![image](https://github.com/41071134h/DB/blob/main/hw01.png)
